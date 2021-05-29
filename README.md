@@ -2,6 +2,10 @@
 
 oauth2 implementation sample in golang
 
+## Prerequisites
+- an admin account for Google Cloud Platform
+- [install go](https://golang.org/doc/install)
+
 ## How to run
 
 - create a `.env` file
