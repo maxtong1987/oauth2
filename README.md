@@ -9,7 +9,7 @@ oauth2 implementation sample in golang
 ## How to run
 
 - create a `.env` file
-- define `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`
+- define `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` (please refer to [Create authorization credentials](https://developers.google.com/identity/protocols/oauth2/web-server#creatingcred))
 - install go packages
 
 ```bash
