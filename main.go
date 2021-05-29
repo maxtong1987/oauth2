@@ -31,7 +31,6 @@ func main() {
 		},
 		Endpoint: google.Endpoint,
 	}
-	fmt.Printf("config:\n%+v", oauthConfig)
 	http.HandleFunc("/", handleHome)
 	http.HandleFunc("/login", handleLogin)
 	http.HandleFunc("/callback", handleCallback)
