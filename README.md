@@ -19,3 +19,8 @@ go run main.go
 ```
 
 - go to http://localhost:8080 and click `Google Log In`
+
+
+## Credits
+
+inspired from [this YouTube video](https://youtu.be/OdyXIi6DGYw)
